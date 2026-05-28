@@ -18,4 +18,4 @@ Currently, my core research interest lies in **Reinforcement Learning (RL) Align
 - **Core Languages:** Python, C/C++ 
 - **AI & Math:** PyTorch, Reinforcement Learning, Probability & Statistics
 
-### 📫 **Reach me at: **[yeyueshi0923@sjtu.edu.cn](mailto:yeyueshi0923@sjtu.edu.cn)
+### 📫 **Reach me at:** [yeyueshi0923@sjtu.edu.cn](mailto:yeyueshi0923@sjtu.edu.cn)
