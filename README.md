@@ -2,7 +2,7 @@
 
 > *"Generative models learn statistical distributions; they don't learn Newton's laws. The path to true Spatial Intelligence requires deterministic grounding."*
 
-I am an undergraduate at **Shanghai Jiao Tong University (SJTU)**, majoring in Data Science. My academic journey bridges rigorous engineering foundations (C++ 95/100) with system-level analytical thinking. 
+I am an undergraduate at **Shanghai Jiao Tong University (SJTU)**, majoring in Data Science. My academic journey bridges rigorous engineering foundations with system-level analytical thinking. 
 
 Currently, my core research interest lies in **Reinforcement Learning (RL) Alignment for Foundation Models**. I believe that purely statistical generative models (whether LLMs or Diffusion models) suffer from hallucinations. They require rigorous, verifiable rewards and online RL mechanisms to align with logical reasoning and physical reality.
 
@@ -18,4 +18,4 @@ Currently, my core research interest lies in **Reinforcement Learning (RL) Align
 - **Core Languages:** Python, C/C++ 
 - **AI & Math:** PyTorch, Reinforcement Learning, Probability & Statistics
 
-- 📫 **Reach me at:**[yeyueshi0923@sjtu.edu.cn](mailto:yeyueshi0923@sjtu.edu.cn)
+### 📫 **Reach me at:**[yeyueshi0923@sjtu.edu.cn](mailto:yeyueshi0923@sjtu.edu.cn)
